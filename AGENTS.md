@@ -1,8 +1,8 @@
 # AI Previs Studio
 
-Read MASTER_SPEC.md before making architectural or implementation decisions.
+Read AI_Previs_Studio_Codex_Master_Spec_V0.1.md before making architectural or implementation decisions.
 
-MASTER_SPEC.md is the product source of truth.
+AI_Previs_Studio_Codex_Master_Spec_V0.1.md is the product source of truth.
 
 For the first task:
 - Do not implement the application.
